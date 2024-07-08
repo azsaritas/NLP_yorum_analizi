@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #NLP - Doğal Dil İşleme - Duygu Analizi
-# Aziz Sarıtaş 210757061 
+# Aziz Sarıtaş
 
 import pandas as pd 
 import keras  #keras kütüphanesi
